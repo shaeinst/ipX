@@ -2,7 +2,7 @@
 
 """
 Author: Ali Shahid
-Github: https://github.com/shaeinst/
+Github: https://github.com/shaeinst/ipX
 website: https://shaeinst.github.io/
 
 API provided by: https://ipapi.co/
