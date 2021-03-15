@@ -1,57 +1,48 @@
-# Welcome to ipX 👋
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
-[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/shaeinst/ipX#uses)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/kefranabg/readme-md-generator/graphs/commit-activity)
-[![License: MIT](https://img.shields.io/github/license/shaeinst/ipX)](https://github.com/shaeinst/ipX/blob/main/LICENSE)
+# ipX
 
->  track IP Address 
+![](https://raw.githubusercontent.com/shaeinst/ipX/main/images/ipX.png)
 
-### 🏠 [Homepage](https://github.com/shaeinst/ipX)
+**Table of Contents**
 
-### ✨ [Demo](https://raw.githubusercontent.com/shaeinst/images/main/screenshot/problems/2021-03-13_22-25.png)
+[TOC]
 
-## Install
+# Welcome
+### find the location of an IP address.
+Specifically, you can get the following information for any IP address:
+city, region (name & code), country (name & code), continent, postal code / zip code, latitude, longitude, timezone, utc offset, european union (EU) membership, country calling code, country capital, country tld (top-level domain), currency (name & code), area & population of the country, languages spoken, asn and organization
 
-```sh
-npm install
-```
+##Features
++ get your own or other ip  address
++ save result to any of following format
+  + json
+  + jsonp
+  + yaml
+  + xml
+  + csv
++ don't show result on screen, just save result to file
 
-## Usage
+##Uses
+##### to get help, use --help/-h flag. Example:
+`python ipX.py --help`
+##### to know details of your IP,  use --myip/--self/-I flag. Example:
+`python ipX.py --myip`
+##### to find location of any ip address, use  -i/--ip ip_address flag. Example:
+`python ipX.py --ip 8.8.8.8`
+here 8.8.8.8 is ip address which i want to find
+##### to save result, use --output/-o flag. Example:
+`python ipX.py --ip 8.8.8.8 --output result.json`
+this will save result to "result.json" file.
+note: if you don't specify filename or file extension(here in this example, json), by default it going to save file as result.json
 
-```sh
-python -ipX --help
-```
-
-## Run tests
-
-```sh
-python ipX.py --myip
-```
 
 ## Author
 
 👤 **Ali Shahid**
 
-* Website: shaeinst.github.io/
+* Website:  [click here](shaeinst.github.io/)
 * Github: [@shaeinst](https://github.com/shaeinst)
-* LinkedIn: [@https:\/\/www.linkedin.com\/in\/shaeinst\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/shaeinst\/)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
-
-Feel free to check [issues page](https://github.com/shaeinst/ipX/issues). You can also take a look at the [contributing guide](https://github.com/kefranabg/readme-md-generator/blob/master/CONTRIBUTING.md).
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
 
 
 ## 📝 License
 
-Copyright © 2021 [Ali Shahid](https://github.com/shaeinst).
-
 This project is [MIT](https://github.com/shaeinst/ipX/blob/main/LICENSE) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
