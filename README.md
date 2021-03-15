@@ -4,7 +4,19 @@
 
 **Table of Contents**
 
-[TOC]
+- [ipX](#ipx)
+- [Welcome](#welcome)
+    + [find the location of an IP address.](#find-the-location-of-an-ip-address)
+  * [Features](#features)
+  * [Uses](#uses)
+        * [to get help, use --help/-h flag. Example:](#to-get-help--use---help--h-flag-example-)
+        * [to know details of your IP,  use --myip/--self/-I flag. Example:](#to-know-details-of-your-ip---use---myip---self--i-flag-example-)
+        * [to find location of any ip address, use  -i/--ip ip_address flag. Example:](#to-find-location-of-any-ip-address--use---i---ip-ip-address-flag-example-)
+        * [to save result, use --output/-o flag. Example:](#to-save-result--use---output--o-flag-example-)
+  * [Author](#author)
+  * [📝 License](#---license)
+
+
 
 # Welcome
 ### find the location of an IP address.
