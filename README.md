@@ -41,6 +41,9 @@ here 8.8.8.8 is ip address which i want to find
 this will save result to "result.json" file.
 note: if you don't specify filename or file extension(here in this example, json), by default it going to save file as result.json
 
+## Screenshot
+![](https://raw.githubusercontent.com/shaeinst/ipX/main/images/ip-result.png)
+
 
 ## Author
 
