@@ -129,7 +129,7 @@ def printResult():
 # ----------------------------------------------------------------------------
 # getting details of own and target IP address at once make no sence.
 if my_ip and ip_address != 1:
-    print(""" common, this make no sence.
+    print(""" common, this make no sense.
     either get your ip or other ip\nnot both""")
     exit()
 
