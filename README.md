@@ -1,6 +1,6 @@
 # ipX
 
-![](https://raw.githubusercontent.com/shaeinst/ipX/main/images/ipX.png)
+<img src="https://raw.githubusercontent.com/shaeinst/ipX/main/images/ipX.png" alt="Logo" width="200">
 
 **Table of Contents**
 
